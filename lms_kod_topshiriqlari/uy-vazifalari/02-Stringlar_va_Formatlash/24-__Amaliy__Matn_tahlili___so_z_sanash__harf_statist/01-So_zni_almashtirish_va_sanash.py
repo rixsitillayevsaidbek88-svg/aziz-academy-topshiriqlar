@@ -1,0 +1,6 @@
+a = input()
+b = input()
+c = a.count(b)
+d = a.replace(b, b.upper())
+print(d)
+print(c)
