@@ -1,0 +1,10 @@
+mahsulot = input()
+narx = int(input())
+soni = int(input())
+
+print("===== CHEK =====")
+print(f"Mahsulot: {mahsulot}")
+print(f"Narx: {narx}")
+print(f"Soni: {soni}")
+print(f"Jami: {narx * soni}")
+print("================")
