@@ -1,0 +1,10 @@
+soni = int(input())
+narx = int(input())
+foiz = int(input())
+u = (soni * narx)
+chegirma = (u * foiz // 100)
+yakuniy = (u - chegirma)
+
+print(u)
+print(chegirma)
+print(yakuniy)
