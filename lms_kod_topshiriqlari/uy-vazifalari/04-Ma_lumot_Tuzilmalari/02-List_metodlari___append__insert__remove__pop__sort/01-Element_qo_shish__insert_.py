@@ -1,0 +1,5 @@
+a = input().split()
+p = int(input())
+x = input()
+a.insert(p, x)
+print(*a)
